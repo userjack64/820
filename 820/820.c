@@ -50,7 +50,7 @@
 //	}
 //}
 
-//Êı×é·¨
+
 //int fib(int m)
 //{
 //	int i;
@@ -81,9 +81,35 @@
 //	}
 //}
 
+//int jmp_step(int n)
+//{
+//	if (n == 1)
+//	{
+//		return 1;
+//
+//	}
+//	else if (n == 2)
+//	{
+//		return 2;
+//
+//	}
+//	else
+//	{
+//		return jmp_step(n - 1) + jmp_step(n - 2);
+//	}
+//	
+//}
+
 int main()
 {
 
+
+
+
+	//int n = 0;
+	//scanf("%d", &n);
+	//int num = jmp_step(n);
+	//printf("Solution(s)= %d", num);
 
 
 
